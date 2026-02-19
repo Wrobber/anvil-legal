@@ -9,7 +9,7 @@ If you have questions about this privacy policy or your data, contact us at:
 **Email:** westonrobbe@gmail.com
 Website: https://wrobber.github.io/anvil-legal/PrivacyPolicy
 
-Anvil CRM ("Anvil," "we," "our") is operated by [Your Legal Entity Name]. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
+Anvil CRM ("Anvil," "we," "our") is operated by Everclean Softwash LLC. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
 
 ## 1. Information We Collect
 
