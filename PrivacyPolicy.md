@@ -1,6 +1,6 @@
 # Anvil CRM — Privacy Policy
 
-**Last updated: February 19, 2026**
+**Last updated: February 20, 2026**
 
 Anvil CRM ("Anvil," "we," "our") is operated by [Your Legal Entity Name]. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
 
@@ -21,6 +21,9 @@ With your permission, we access your camera and photo library to attach photos t
 ### Device and Usage Data
 We collect anonymized analytics events (e.g., features used, screen views) and crash reports through Firebase Analytics and Firebase Crashlytics. This data includes your device model, OS version, and app version but does not include your CRM data.
 
+### Spreadsheet Import Data
+When you import a spreadsheet, column headers and a small number of sample values (up to 3 per column) may be sent to Anthropic's Claude API via a secure Firebase Cloud Function to assist with automatic column mapping. No full spreadsheet contents or CRM records are sent. This data is processed in real time and is not stored by Anthropic.
+
 ### Subscription Data
 Subscription status and purchase history are managed by RevenueCat, Inc. RevenueCat receives your anonymous app user ID and transaction data from Apple. We do not receive or store your payment information.
 
@@ -33,6 +36,7 @@ Subscription status and purchase history are managed by RevenueCat, Inc. Revenue
 - To process subscriptions and enforce feature tiers
 - To diagnose crashes and improve app stability
 - To understand feature usage and improve the app
+- To assist with automatic column mapping during spreadsheet imports (AI-assisted)
 
 ## 3. Third-Party Services
 
@@ -48,6 +52,7 @@ Subscription status and purchase history are managed by RevenueCat, Inc. Revenue
 | Mapbox | Mapbox, Inc. | Route optimization (Gold tier) | https://www.mapbox.com/legal/privacy |
 | Apple MapKit | Apple Inc. | Map display | https://www.apple.com/legal/privacy |
 | Apple WeatherKit | Apple Inc. | Weather data in briefs | https://www.apple.com/legal/privacy |
+| Anthropic Claude API | Anthropic, PBC | AI-assisted column mapping during spreadsheet import | https://www.anthropic.com/privacy |
 
 ## 4. Data Storage and Security
 
