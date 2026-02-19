@@ -2,6 +2,13 @@
 
 **Last updated: February 20, 2026**
 
+## Contact Us
+
+If you have questions about this privacy policy or your data, contact us at:
+
+**Email:** westonrobbe@gmail.com
+Website: https://wrobber.github.io/anvil-legal/PrivacyPolicy
+
 Anvil CRM ("Anvil," "we," "our") is operated by [Your Legal Entity Name]. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
 
 ## 1. Information We Collect
@@ -79,8 +86,4 @@ Anvil is not directed at children under 13. We do not knowingly collect informat
 
 We may update this policy from time to time. We will notify you of material changes by posting the updated policy within the app or via email.
 
-## 9. Contact Us
 
-If you have questions about this privacy policy or your data, contact us at:
-
-**Email:** [your-email@anvilcrm.com]
