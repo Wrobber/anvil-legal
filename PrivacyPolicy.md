@@ -1,15 +1,8 @@
 # Anvil CRM — Privacy Policy
 
-**Last updated: February 20, 2026**
+**Last updated: April 22, 2026**
 
-## Contact Us
-
-If you have questions about this privacy policy or your data, contact us at:
-
-**Email:** westonrobbe@gmail.com
-Website: https://wrobber.github.io/anvil-legal/PrivacyPolicy
-
-Anvil CRM ("Anvil," "we," "our") is operated by Everclean Softwash LLC. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
+Anvil CRM ("Anvil," "we," "our") is operated by Iros Solutions LLC, a West Virginia limited liability company. This policy describes how we collect, use, and protect your information when you use the Anvil CRM iOS application.
 
 ## 1. Information We Collect
 
@@ -55,6 +48,7 @@ When you submit a bug report from the app, the report contents (your description
 - To diagnose crashes and improve app stability
 - To understand feature usage and improve the app
 - To assist with automatic column mapping during spreadsheet imports (AI-assisted)
+- To deliver bug reports to our issue tracker
 
 ## 3. Third-Party Services
 
@@ -118,4 +112,31 @@ Anvil is not directed at children under 13. We do not knowingly collect informat
 
 While you are using a beta (TestFlight) build of Anvil, the following additional terms apply. This section will be removed from the policy when the beta program ends.
 
+### Additional Data Collection
+Beta builds may collect more detailed diagnostic information than production builds, including verbose in-app logs, pre-release feature telemetry, and granular performance traces. This data is processed by the same providers listed in Section 3 (primarily Firebase Crashlytics, Firebase Analytics, and Firebase Performance).
 
+### Apple TestFlight
+Beta distribution is handled by Apple Inc. through TestFlight. When you install, use, or submit feedback through TestFlight, Apple collects crash logs, screenshots, feedback submissions, and aggregate install/launch metrics, and shares them with us in accordance with Apple's privacy policy: https://www.apple.com/legal/privacy/. We do not control what Apple collects through TestFlight.
+
+### Screenshots and Bug Reports
+Screenshots submitted through TestFlight's feedback tool or through Anvil's in-app bug reporter may contain real CRM data visible on your screen at the time of capture (contact names, addresses, notes, etc.). By submitting a screenshot, you consent to us viewing that data solely to diagnose the reported issue. Please review screenshots before submitting, and blur or crop sensitive fields when possible.
+
+### Confidentiality of Pre-Release Features
+Beta builds may contain features, UI, or behavior not yet public. Please do not share screenshots, videos, or descriptions of unreleased functionality publicly without written permission from Iros Solutions LLC. Private discussion with us for feedback purposes is always welcome.
+
+### Data Lifecycle
+Data you create during the beta is stored in the same Firebase project as production data and will carry over to the public release. You may delete your account and data at any time from Settings > Account.
+
+## 9. Changes to This Policy
+
+We may update this policy from time to time. We will notify you of material changes by posting the updated policy within the app or via email. Your continued use of the app after changes are posted constitutes acceptance of the revised policy.
+
+## 10. Contact Us
+
+If you have questions about this privacy policy or your data, contact us at:
+
+**Email:** privacy@anvilsales.com
+**Website:** https://anvilsales.com
+
+Iros Solutions LLC
+Morgantown, WV

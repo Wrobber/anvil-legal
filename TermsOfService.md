@@ -1,8 +1,8 @@
 # Anvil CRM — Terms of Service
 
-**Last updated: April 10, 2026**
+**Last updated: April 22, 2026**
 
-These Terms of Service ("Terms") govern your use of the Anvil CRM iOS application ("Anvil," "the App") operated by Iro Solutions LLC ("we," "us," "our"), a West Virginia limited liability company.
+These Terms of Service ("Terms") govern your use of the Anvil CRM iOS application ("Anvil," "the App") operated by Iros Solutions LLC ("we," "us," "our"), a West Virginia limited liability company.
 
 By downloading, installing, or using Anvil, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -70,7 +70,7 @@ If you use Anvil's payment processing features (powered by Stripe Connect), you 
 
 ## 8. Intellectual Property
 
-Anvil, including its design, code, features, and branding, is the property of Iro Solutions LLC and is protected by copyright and other intellectual property laws. You may not copy, modify, distribute, or reverse-engineer any part of the App.
+Anvil, including its design, code, features, and branding, is the property of Iros Solutions LLC and is protected by copyright and other intellectual property laws. You may not copy, modify, distribute, or reverse-engineer any part of the App.
 
 ## 9. Disclaimer of Warranties
 
@@ -78,13 +78,13 @@ Anvil is provided "as is" and "as available" without warranties of any kind, exp
 
 ## 10. Limitation of Liability
 
-To the maximum extent permitted by law, Iro Solutions LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenue, data, or business opportunities arising from your use of or inability to use the App, even if we have been advised of the possibility of such damages.
+To the maximum extent permitted by law, Iros Solutions LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenue, data, or business opportunities arising from your use of or inability to use the App, even if we have been advised of the possibility of such damages.
 
 Our total liability for any claims arising from these Terms or your use of Anvil shall not exceed the amount you paid us in the twelve (12) months preceding the claim.
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless Iro Solutions LLC, its officers, directors, and employees from any claims, damages, losses, or expenses (including reasonable attorneys' fees) arising from your use of the App or violation of these Terms.
+You agree to indemnify and hold harmless Iros Solutions LLC, its officers, directors, and employees from any claims, damages, losses, or expenses (including reasonable attorneys' fees) arising from your use of the App or violation of these Terms.
 
 ## 12. Governing Law
 
@@ -105,5 +105,5 @@ If you have questions about these Terms, contact us at:
 **Email:** support@anvilsales.com
 **Website:** https://anvilsales.com
 
-Iro Solutions LLC
+Iros Solutions LLC
 Morgantown, WV
