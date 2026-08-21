@@ -33,6 +33,20 @@ If you accept payments from your customers through Anvil, payment processing is 
 ### Email Communications
 When automated follow-up emails or triggered emails are sent on your behalf, they are delivered through SendGrid (Twilio Inc.). SendGrid receives the recipient email address, subject line, and email body content. SendGrid may collect delivery and engagement data (opens, bounces) for deliverability purposes.
 
+### SMS and Text Messaging
+
+Anvil can send daily work schedules by text message to the crew members of a business that uses Anvil. Recipients are that business's own employees and crew, not its customers. Each message lists the jobs assigned to that crew member for the day, with times, addresses, and a map link with directions.
+
+**We do not sell, rent, or share mobile phone numbers or SMS consent with any third party for marketing purposes.** Mobile numbers are shared with our messaging provider, Twilio, only as needed to deliver these messages, and with nobody else.
+
+**Message frequency.** A crew member receives at most one schedule message per working day, and only on days they are assigned to a job.
+
+**Message and data rates may apply,** depending on the recipient's mobile plan.
+
+**Opting out.** Reply STOP to any message to stop receiving them. Reply START to resume. Reply HELP for help. A crew member may also ask the business that employs them to remove their number from its crew list.
+
+**Consent.** The business is responsible for obtaining each crew member's agreement to receive schedule texts before adding their mobile number, and records that agreement in Anvil.
+
 ### Bug Reports
 When you submit a bug report from the app, the report contents (your description, app version, device info) are sent to Linear via a Cloud Function. No CRM data is included in bug reports.
 
